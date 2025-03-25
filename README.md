@@ -1,6 +1,6 @@
-# Text Cleaner for Het Verhaal van Nederland
+# Text Cleaner for Het Verhaal van Nederland and NTR Podwalks
 
-This repository contains Python scripts to clean and format text from various sources related to "Het Verhaal van Nederland" (The Story of the Netherlands) series.
+This repository contains Python scripts to clean and format text from various sources related to "Het Verhaal van Nederland" (The Story of the Netherlands) series and NTR Podwalks. The purpose of text cleanup is learning Dutch language. Videos in the series and audio in the Podwalks are something B1-B2 level, thus I prefer reading and learning new words to grasp the idea from audition better.
 
 ## Scripts
 
